@@ -8,8 +8,4 @@ menu:
 
 # Contact
 
-Email me at tilian@seas.upenn.edu.
-
-Connect on LinkedIn at www.linkedin.com/in/tiffany-lian.
-
-Check out my GitHub at https://github.com/tiffanylian.
+[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
