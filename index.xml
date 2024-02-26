@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Tiffany Lian</copyright>
-    <lastBuildDate>Mon, 26 Feb 2024 17:31:02 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 18:36:02 -0500</lastBuildDate>
     <atom:link href="https://tiffanylian.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tiffanylian.github.io/hugo-mock-landing-page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tiffanylian.github.io/hugo-mock-landing-page/about/</guid>
-      <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
+      <description>About Us Made with ❤️ by ScribbleScan Team(https://github.com/tiffanylian/hugo-mock-landing-page).</description>
     </item>
     <item>
       <title>Code of Conduct</title>
@@ -28,7 +28,7 @@
       <link>https://tiffanylian.github.io/hugo-mock-landing-page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tiffanylian.github.io/hugo-mock-landing-page/contact/</guid>
-      <description>Contact Open an issue on GitHub.</description>
+      <description>Contact Open an issue on GitHub.&#xA;Email Me :D</description>
     </item>
     <item>
       <title>Privacy Policy</title>
