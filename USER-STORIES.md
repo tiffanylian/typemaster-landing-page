@@ -16,7 +16,7 @@ These are features that are currently implemented in IntegriMark, and which feat
 1. As a language learner, I want Scribble Scan to support a wide range of languages and writing styles, enabling users from different linguistic backgrounds to convert handwritten text into digital format with ease.
 2. As a user, I want Scribble Scan to provide advanced editing tools such as text formatting options, spell check, and handwriting style customization, allowing me to refine and enhance the converted text according to my preferences.
 3. As an educator, I want Scribble Scan to include accessibility features such as text-to-speech functionality and screen reader compatibility, ensuring that students with disabilities can access and engage with converted text documents effectively.
-4. As a professional, I want Scribble Scan to offer mobile accessibility and on-the-go productivity features, allowing me to convert handwritten notes and documents into digital text using my smartphone or tablet, even when I'm away from my desk.
+4. As a user, I want Scribble Scan to seamlessly integrate with popular note-taking apps like Evernote, OneNote, and Notion, allowing me to directly import and convert handwritten notes into my preferred digital notebook application.
 
 ## Potential Features Expansion
 
