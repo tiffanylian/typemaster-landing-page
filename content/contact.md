@@ -8,8 +8,6 @@ menu:
 
 # Contact
 
-Email me at tilian@seas.upenn.edu.
+[Open an issue](https://github.com/tiffanylian/hugo-mock-landing-page/issues/new) on GitHub.
 
-Connect on LinkedIn at www.linkedin.com/in/tiffany-lian.
-
-Check out my GitHub at https://github.com/tiffanylian.
+[Email Me](tilian@seas.upenn.edu) :D
