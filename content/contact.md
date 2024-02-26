@@ -9,5 +9,3 @@ menu:
 # Contact
 
 [Open an issue](https://github.com/tiffanylian/hugo-mock-landing-page/issues/new) on GitHub.
-
-[Email Me](tilian@seas.upenn.edu) :D
