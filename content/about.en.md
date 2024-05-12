@@ -5,4 +5,4 @@ draft: false
 
 # About Us
 
-Made with ❤️ by ScribbleScan Team(https://github.com/tiffanylian/hugo-mock-landing-page).
+Made with ❤️ by TypeMaster Team(https://github.com/jameshu88/cis-3500-team13).

@@ -1,7 +1,7 @@
-baseURL = 'https://tiffanylian.github.io/hugo-mock-landing-page-autodeployed/'
-title = "ScribbleScan"
-author = "Tiffany Lian"
-copyright = "Tiffany Lian"
+baseURL = 'https://tiffanylian.github.io/typemaster-landing-page/'
+title = "TypeMaster"
+author = "sp-team-13"
+copyright = "sp-team-13"
 
 timeZone = 'Europe/London'
 
