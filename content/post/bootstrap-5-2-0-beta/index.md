@@ -1,19 +1,19 @@
 ---
-title: "Bootstrap 5.2.0 beta"
-description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here!"
+title: "TypeMaster Chrome Extension is here!"
+description: "Download the extension now!"
 date: 2022-05-13T13:00:44+01:00
-draft: false
+draft: true
 images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
-keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+categories: ["Blog"]
+tags: ["TypeMaster"]
+keywords: ["typemaster","extension","blog"]
+authors: ["Tiffany Lian"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](bootstrap-5-2-0-beta.png)
+![TypeMaster Version 1](typemasterbeta.png)
 { .img-fluid }
 
-> It’s the biggest release since v5 itself—**Bootstrap v5.2.0-beta1 is here!** This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
+> CIS 3500 Spring team 13 has released a new Chrome Extension that allows users to centralize their writing workflow into one tab! Just one click and users can receive detailed metrics and professional writing feedback from our TypeMaster AI.
 
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. [Keep reading for details](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
+[Read our blog post for more details！](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
